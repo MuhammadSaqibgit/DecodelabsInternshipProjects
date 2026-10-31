@@ -1,0 +1,5 @@
+Algorithm,Mean F1,Std
+KNN (K=12),0.9663,0.0316
+Logistic Regression,0.958,0.0268
+Decision Tree,0.9413,0.0207
+SVM (RBF),0.9663,0.0316
